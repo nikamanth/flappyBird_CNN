@@ -8,6 +8,8 @@ from random import randint
 from collections import deque
 import numpy as np
 
+import sys
+sys.path.append("/usr/lib/python2.7/dist-packages")
 import pygame
 from pygame.locals import *
 
